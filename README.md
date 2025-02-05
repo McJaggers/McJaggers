@@ -9,7 +9,3 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/McJaggers/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/McJaggers/azure-network-protocols)
-
-<h2>🤳Connect with me:</h2>
-
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/jagvir-singh-a2584819a/)
